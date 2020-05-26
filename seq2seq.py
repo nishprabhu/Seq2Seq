@@ -1,4 +1,4 @@
-""" Encoder and Decoder Models written in PyTorch 1.5.0 """
+""" Encoder and Decoder wrappers written in PyTorch 1.5.0 """
 
 import torch
 import torch.nn as nn
